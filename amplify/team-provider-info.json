@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helgatest-dev-92202-authRole",
+      "UnauthRoleArn": "arn:aws:iam::539370044964:role/amplify-helgatest-dev-92202-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::539370044964:role/amplify-helgatest-dev-92202-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-helgatest-dev-92202-deployment",
+      "UnauthRoleName": "amplify-helgatest-dev-92202-unauthRole",
+      "StackName": "amplify-helgatest-dev-92202",
+      "StackId": "arn:aws:cloudformation:us-east-2:539370044964:stack/amplify-helgatest-dev-92202/7d171700-ad44-11ed-9e89-06136e9dd252",
+      "AmplifyAppId": "dj4cx3d2ei6zb"
+    }
+  }
+}
